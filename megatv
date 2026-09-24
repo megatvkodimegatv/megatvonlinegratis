@@ -1,0 +1,4 @@
+#EXTM3U 
+
+#EXTINF:-1 tvg-id="" tvg-name="GLOOBINHO" tvg-logo="" group-title="INFANTIL",GLOOBINHO
+http://200.194.238.229:8383/live/urbankids/playlist.m3u8
