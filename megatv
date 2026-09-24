@@ -1,4 +1,4 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-id="" tvg-name="G" tvg-logo="" group-title="INFANTIL",G
-https://origin-07.nxplay.com.br/CARTOONITO/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="INFANTIL",A
+http://200.194.238.229:8383/live/urbankids/playlist.m3u8
